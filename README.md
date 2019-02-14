@@ -1,4 +1,5 @@
-<img src="http://www.claro.com.pe/recursos_contenido/personas/d848845f-eb56-4403-bc7a-b8dcfa4ed521-images252Flogo-claro-blanco.png" align="right"/>
+![alt text](http://www.claro.com.pe/recursos_contenido/personas/d848845f-eb56-4403-bc7a-b8dcfa4ed521-images252Flogo-claro-blanco.png)
+                                                                                                                                                                                                                                                                          
 # Nombre del Componente
 
 Un párrafo de la descripción del proyecto va aquí.
