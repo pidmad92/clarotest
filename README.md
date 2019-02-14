@@ -1,5 +1,5 @@
-![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/1200px-Claro.svg.png)
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/1200px-Claro.svg.png" align="right" title="Size Limit logo by Anton Lovchikov" width="120" height="178">
+<!--![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/1200px-Claro.svg.png)-->
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/1200px-Claro.svg.png" align="right" title="Size Limit logo by Anton Lovchikov" width="178" height="178">
                                                                                                                                                                                                                                                                           
 # Nombre del Componente
 
@@ -54,7 +54,7 @@ Agregue notas adicionales sobre cómo implementar esto en un sistema en vivo
 ```bash
 mvn deploy
 ```
-#### 1.2.1 Pre-requisitos de Construcción
+#### 1.2.1 Pre-requisitos de Despliegue
 
 Qué cosas necesita para instalar el software y cómo instalarlo, por ejemplo:
 Tener instalados y configurados [Java JDK8](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) y [Apache Maven](https://maven.apache.org/download.cgi) para poder compilar el proyecto.
