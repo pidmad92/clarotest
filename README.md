@@ -4,11 +4,13 @@
 
 Un párrafo de la descripción del proyecto va aquí.
 
-## Instalación
+## 1. Instalación
 
 Estas instrucciones le permitirán obtener una copia del proyecto en funcionamiento en su máquina local para fines de desarrollo, prueba, compilación y despliegue. Consulte la implementación para ver las notas sobre cómo implementar el proyecto en un sistema en vivo.
 
-### Prerequisitos
+### 1.1 Construcción
+
+#### 1.1.1 Pre-requisitos de Construcción
 
 Qué cosas necesita para instalar el software y cómo instalarlo, por ejemplo:
 Tener instalados y configurados [Java JDK8](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) y [Apache Maven](https://maven.apache.org/download.cgi) para poder compilar el proyecto.
@@ -24,7 +26,7 @@ Y repetir
 %M2_HOME% = ""
 ```
 
-### Construcción
+#### 1.1.2 Construcción
 
 Una serie paso a paso de ejemplos que le indican cómo ejecutar un entorno de desarrollo.
 
@@ -36,7 +38,7 @@ Y repetir
 ```bash
 mvn clean package
 ```
-### Pruebas Unitarias
+#### 1.1.3 Pruebas Unitarias
 
 Explica qué pruebas y por qué
 
@@ -44,14 +46,32 @@ Explica qué pruebas y por qué
 Ejemplo de prueba unitaria
 ```
 
-### Despliegue
+### 1.2 Despliegue
 
 Agregue notas adicionales sobre cómo implementar esto en un sistema en vivo
 
 ```bash
 mvn deploy
 ```
-### Pruebas Funcionales
+#### 1.2.1 Pre-requisitos de Construcción
+
+Qué cosas necesita para instalar el software y cómo instalarlo, por ejemplo:
+Tener instalados y configurados [Java JDK8](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) y [Apache Maven](https://maven.apache.org/download.cgi) para poder compilar el proyecto.
+
+```bash
+$JAVA_HOME = ""
+$M2_HOME = ""
+```
+
+#### 1.2.2 Despliegue
+
+Agregue notas adicionales sobre cómo implementar esto en un sistema en vivo
+
+```bash
+mvn deploy
+```
+
+#### 1.2.3 Pruebas Funcionales
 
 Explica qué pruebas y por qué
 
