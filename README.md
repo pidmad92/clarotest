@@ -1,4 +1,5 @@
-![alt text](http://www.claro.com.pe/recursos_contenido/personas/d848845f-eb56-4403-bc7a-b8dcfa4ed521-images252Flogo-claro-blanco.png)
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/1200px-Claro.svg.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claro.svg/1200px-Claro.svg.png" align="right" title="Size Limit logo by Anton Lovchikov" width="120" height="178">
                                                                                                                                                                                                                                                                           
 # Nombre del Componente
 
@@ -79,13 +80,13 @@ Explica qué pruebas y por qué
 Ejemplo de prueba unitaria
 ```
 
-## Uso
+## 3. Uso
 
 Algunos ejemplos motivadores y útiles de cómo se puede utilizar su producto. Condimenta esto con bloques de código y potencialmente más capturas de pantalla.
 
 Para mayor detalles del uso de este componente puede consultar la [documentación en confluence de Claro]().
 
-## Historial de releases
+## 4. Historial de releases
 
 *Para las versiones disponibles, consulte [etiquetas en este repositorio](https://github.com/your/project/tags).*
 
@@ -102,5 +103,5 @@ Para mayor detalles del uso de este componente puede consultar la [documentació
 * 0.0.1
     * Trabajo en progreso
 
-## License
+## 5. Licencia
 [Claro-Perú](http://www.claro.com.pe/)
